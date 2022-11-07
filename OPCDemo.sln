@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPCDemo", "OPCDemo\OPCDemo.csproj", "{2E1AA2C9-FAE2-4349-B767-81FCAE32272F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPCManager", "OPCManager\OPCManager.csproj", "{A5DC3232-24F6-467B-A4A8-CFF99D27600A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E1AA2C9-FAE2-4349-B767-81FCAE32272F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1AA2C9-FAE2-4349-B767-81FCAE32272F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1AA2C9-FAE2-4349-B767-81FCAE32272F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1AA2C9-FAE2-4349-B767-81FCAE32272F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5DC3232-24F6-467B-A4A8-CFF99D27600A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DC3232-24F6-467B-A4A8-CFF99D27600A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DC3232-24F6-467B-A4A8-CFF99D27600A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DC3232-24F6-467B-A4A8-CFF99D27600A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07FBDBA7-FD84-418A-BF1F-2BB516BD2D66}
+	EndGlobalSection
+EndGlobal
